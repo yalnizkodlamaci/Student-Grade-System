@@ -1,16 +1,8 @@
-# \# 🎓 Öğrenci Not Takip Sistemi
+# \# 🎓 Student Grade System (Öğrenci Not Takip Sistemi)
 
 # 
 
-# !\[C#](https://img.shields.io/badge/C%23-Backend-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
-
-# !\[Python](https://img.shields.io/badge/Python-Frontend-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-# !\[Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-# 
-
-# C# ve Python kullanılarak geliştirilmiş, Docker üzerinde çalışan hibrit öğrenci not sistemi.
+# Hibrit yapılı, C# ve Python teknolojilerini birleştiren modern bir not takip sistemi.
 
 # 
 
@@ -18,59 +10,83 @@
 
 # 
 
-# \### 🏗️ Proje Mimarisi
+# \## 🚀 Tech Stack
 
 # 
 
-# Bu proje iki ana parçadan oluşur:
+# <p align="left">
 
-# 
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#"/>
 
-# 1\.  \*\*Backend (Sunucu):\*\* C# (.NET Core) ile yazıldı. Hesaplamaları yapar.
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET Core" title=".NET Core"/>
 
-# 2\.  \*\*Frontend (İstemci):\*\* Python ile yazıldı. Arayüzü sağlar.
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
 
-# 
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
 
-# \### 🚀 Kullanılan Teknolojiler
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
 
-# 
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
 
-# \* \*\*Backend:\*\* ASP.NET Core Web API
+# &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" title="Visual Studio"/>
 
-# \* \*\*Frontend:\*\* Python (PyQt / Tkinter)
-
-# \* \*\*Veritabanı:\*\* SQL / JSON
-
-# \* \*\*Altyapı:\*\* Docker Containers
-
-# 
-
-# \### ✨ Özellikler
-
-# 
-
-# \* \[x] Öğrenci Kayıt / Silme
-
-# \* \[x] Not Girişi ve Hesaplama
-
-# \* \[x] API Bağlantısı
-
-# \* \[ ] Raporlama (Yakında)
-
-# 
-
-# \### 👥 Geliştirici Ekibi
-
-# 
-
-# \* \*\*Backend Dev:\*\* \[Senin Adın]
-
-# \* \*\*Frontend Dev:\*\* \[Arkadaşının Adı]
+# </p>
 
 # 
 
 # ---
 
-# \*Eğitim amaçlı geliştirilmiştir.\*
+# 
+
+# \### 🧩 Architecture \& Principles (Mimari Yapı)
+
+# 
+
+# Proje, kurumsal standartlara uygun \*\*Clean Architecture\*\* prensipleriyle tasarlanmıştır:
+
+# 
+
+# \- \*\*Domain Layer:\*\* Varlıklar (Entities) ve temel iş kuralları.
+
+# \- \*\*Application Layer:\*\* Servisler, arayüzler ve iş mantığı (Use Cases).
+
+# \- \*\*Infrastructure:\*\* Veritabanı erişimi ve dış servisler.
+
+# \- \*\*Web API:\*\* Dış dünyaya açılan kapı (RESTful API).
+
+# \- \*\*Python Client:\*\* Kullanıcı arayüzü ve API tüketimi.
+
+# 
+
+# ---
+
+# 
+
+# \## 🧠 Developers \& Responsibilities (Geliştirici Ekibi)
+
+# 
+
+# 💻 \*\*Backend \& Cloud Infrastructure\*\*
+
+# \- \*\*Geliştirici:\*\* \[Senin Adın]
+
+# \- \*\*Teknolojiler:\*\* C#, .NET Core Web API, Docker
+
+# \- \*\*Sorumluluk:\*\* API geliştirme, Veritabanı tasarımı, Dockerizasyon, Clean Architecture kurgusu.
+
+# 
+
+# 🎨 \*\*Frontend \& Client\*\*
+
+# \- \*\*Geliştirici:\*\* \[Arkadaşının Adı]
+
+# \- \*\*Teknolojiler:\*\* Python, PyQt / Tkinter
+
+# \- \*\*Sorumluluk:\*\* Masaüstü arayüz tasarımı, API entegrasyonu, Kullanıcı deneyimi.
+
+# 
+
+# ---
+
+# \*Bu proje eğitim amaçlı geliştirilmiştir.\*
 
