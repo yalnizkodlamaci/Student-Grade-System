@@ -58,7 +58,7 @@
 
 ###### Backend \& Cloud Infrastructure
 
-###### \- Geliştirici: \[Senin Adın]
+###### \- Geliştirici: \[Metehan Öztürk]
 
 ###### \- Teknolojiler: C#, .NET Core Web API, Docker
 
@@ -68,7 +68,7 @@
 
 ###### Frontend \& Client
 
-###### \- Geliştirici: \[Arkadaşının Adı]
+###### \- Geliştirici: \[Yiğit Gülen]
 
 ###### \- Teknolojiler: Python, PyQt / Tkinter
 
