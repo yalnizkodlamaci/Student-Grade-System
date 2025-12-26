@@ -14,9 +14,15 @@
 
 ###### 
 
-###### !\[Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,py,docker,git,github,vscode\&theme=light)
+###### <div align="left">
 
-###### 
+###### &nbsp; <a href="https://skillicons.dev">
+
+###### &nbsp;   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,docker,git,github,vscode\&theme=light" />
+
+###### &nbsp; </a>
+
+###### </div>
 
 ###### ---
 
